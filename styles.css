@@ -27,6 +27,8 @@
 }
 
 #flex-section2 .item1 {
+	order: 1;
+	flex: 1;
 
 }
 
