@@ -1,4 +1,4 @@
-/* Flexbox Part 1 */
+/*Flexbox Part 1*/
 
 #flex-section1 ul {
 	display: flex;
@@ -9,11 +9,11 @@
 
 }
 
-/* added rules to the selector*/
-/* end Flexbox Part 1 */
+/*added rules to the selector*/
+/*end Flexbox Part 1*/
 
 
-/* Flexbox Part 2 */
+/*Flexbox Part 2*/
 
 #flex-section2 ul {
 	list-style-type: none;
@@ -44,11 +44,11 @@
 	flex: 1;
 }
 
-/* reordering columns with equal widths */
-/* end Flexbox Part 2 */
+/*reordering columns with equal widths*/
+/*end Flexbox Part 2*/
 
 
-/* Flexbox Part 3 */
+/*Flexbox Part 3*/
 
 #flex-section3 .box {
 	display: flex;
@@ -64,11 +64,11 @@
 	padding: 0;
 }
 
-/* changing the alignment to centre*/
-/* end Flexbox Part 3 */
+/*changing the alignment to centre*/
+/*end Flexbox Part 3*/
 
 
-/* Grid Part 1 */
+/*Grid Part 1*/
 
 #grid-section1 .grid {
 	display: grid;
@@ -78,10 +78,10 @@
 }
 
 /*added 20px gap keeping rows 100px tall*/
-/* end Grid Part 1 */
+/*end Grid Part 1*/
 
 
-/* Grid Part 2 */
+/*Grid Part 2*/
 
 #grid-section2 .gridboxblue {
 	grid-column: 2/4;
@@ -94,11 +94,11 @@
 	grid-row: 2/3;
 }
 
-/* changing column and row values of the grid boxes*/
-/* end Grid Part 2 */
+/*changing column and row values of the grid boxes*/
+/*end Grid Part 2*/
 
 
-/* Grid Part 3 */
+/*Grid Part 3*/
 
 #grid-section3 .grid {
 	display: grid;
