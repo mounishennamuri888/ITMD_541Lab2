@@ -39,7 +39,8 @@
 }
 
 #flex-section2 .item3 {
-
+	order: 2;
+	flex: 1;
 }
 
 /* end Flexbox Part 2 */
