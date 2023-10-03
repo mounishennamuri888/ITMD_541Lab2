@@ -52,7 +52,6 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-
 }
 
 #flex-section3 .tags ul {
@@ -61,7 +60,6 @@
 	flex-wrap: wrap;
 	margin: 0;
 	padding: 0;
-
 }
 
 /* end Flexbox Part 3 */
