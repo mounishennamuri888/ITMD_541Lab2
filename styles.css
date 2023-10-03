@@ -89,6 +89,7 @@
 	grid-column: 1/3;
 	grid-row: 2/3;
 }
+/* changing column and row values of the grid boxes*/
 /* end Grid Part 2 */
 
 
@@ -117,7 +118,7 @@
 #grid-section3 .box4 {
 	grid-column: 1/3;
 }
-
+/* making the grid with 2 columns and 3 rows*/
 /* end Grid Part 3 */
 
 
@@ -131,7 +132,7 @@
 	text-decoration: none;
 	transition: background-color 3s;
 
-
+/* setting it to 3 second transition duration to normal*/
 }
 
 #transition-section .box a:hover {
@@ -139,7 +140,7 @@
 	color: #fff;
 	transition-duration: .5s;
 
-
+/*transition time set to 0.5 seconds*/
 }
-
+/* transition */
 /* end Transition Part */
